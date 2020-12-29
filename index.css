@@ -1,0 +1,22 @@
+#canvas {
+    width: 25%;
+    text-align:center;
+    background-image: images/1606368.jpg;
+    background-image: url(1606368.png);
+
+ }
+ 
+ canvas {
+    display: inline;
+    background-image: image(1606368.jpg);
+    background-image: url(1606368.png);
+
+ }
+
+
+ body {
+     background-color:#73e0ff;
+
+  }
+
+ 
